@@ -1,7 +1,3 @@
-npx create-next-app@latest --ts --use-npm supabase-nextjs
-
-cd supabase-nextjs
-
 npm install @supabase/supabase-js
 
 
